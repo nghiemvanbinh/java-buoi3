@@ -1,0 +1,140 @@
+#item{
+  position: relative;
+  text-align: center;
+}
+.abs{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   color:violet;
+   font-weight: bold;
+}
+.mo-hinh{
+   margin-top: 15px;
+   line-height: 15px;
+   font-size: 25px;
+   font-weight: bold;
+   text-align: center;
+    
+}
+.price{
+   color: blueviolet;
+   margin-top: 20px;
+   text-align: center;
+}
+#gio-hang{
+   
+   color: aliceblue;
+   background-color: blueviolet;
+   font-weight: bold;
+   font-size: 30px;
+   line-height: 30px;
+}
+h2{
+   /* position: absolute; */
+   color: red;
+
+}
+#doan-trich{
+   position: relative;
+   text-align: center;
+}
+.mid{
+   font-weight: bold;
+   text-align: left;
+}
+.foot{
+   font-style:italic;
+   text-align: left;
+}
+.end{
+   position: absolute;
+   color: black;
+   font-style: italic;
+   bottom: 0;
+   right: 0;
+}
+.trich{
+   font-weight: bold;
+}
+.nha-trang{
+ margin-top: 40px;
+ position: relative;
+ text-align: center;
+ width: 400px;
+  /* color: white; */
+}
+.text{
+  position: absolute;
+  top:0;
+  left: 50%;
+  width: 100%;
+  transform: translate(-50%, -50%);
+  background-color: blue;
+  color: white;
+  text-transform: uppercase;
+}
+.bai-tap-4{
+   /* width: 100%; */
+   text-align: center;
+   position: relative;
+   width: 400px;
+   height: 200px;
+}
+.number{
+   /* width: 20%; */
+   /* width: 20px; */
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  right: 50%;
+  width: 150px;
+  height: 30px;
+ background-color: blueviolet;
+   
+}
+.text1{
+   position: absolute;
+   top: 60px;
+   left: 20%;
+   width: 400px;
+   font-size: 30px;
+   
+}
+.number{
+   color: white;
+   display: inline-block;
+}
+.text1 .hoting{
+  color: blue;
+  
+}
+.text2{
+   position: absolute;
+   top: 100px;
+   left: 0;
+   width: 600px;
+   font-size: 15x;
+   text-align: center;
+   text-transform: lowercase;
+}
+.button{
+   position: absolute;
+   top: 150px;
+   left: 0;
+   width: 600px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   color: white;
+
+}
+.button1{
+   background-color: #555555;
+   font-size: 24px;
+   padding: 10px 20px;
+   color: white;
+   border-radius: 10px;
+   margin-right: 20px;
+}
